@@ -113,7 +113,7 @@ These actions can significantly improve customer retention and customer satisfac
 
 ## Project Workflow
 
-1.- Data Collection
+- 1. Data Collection
 
 Data Cleaning and Preprocessing
 
