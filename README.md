@@ -119,3 +119,15 @@ These actions can significantly improve customer retention and customer satisfac
 4. Data Visualization
 5. Insight Generation
 6. Business Recommendations
+
+## Author
+
+**Naveen Naiko**
+
+- Aspiring Data Analyst  
+- Skilled in Python, SQL, and Power BI  
+- Passionate about data analysis and business insights
+
+🔗 LinkedIn: https://www.linkedin.com/in/naiko-naveen-b4a585253/
+💻 GitHub: https://github.com/naveen6870  
+📧 Email: naveennayak7168@gmail.com
