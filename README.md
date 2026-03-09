@@ -113,14 +113,9 @@ These actions can significantly improve customer retention and customer satisfac
 
 ## Project Workflow
 
-- 1. Data Collection
-
-Data Cleaning and Preprocessing
-
-Exploratory Data Analysis (EDA)
-
-Data Visualization
-
-Insight Generation
-
-Business Recommendations
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Data Visualization
+5. Insight Generation
+6. Business Recommendations
