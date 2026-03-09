@@ -101,13 +101,13 @@ Based on the analysis, the following strategies can help reduce churn:
 
 - Promote **long-term contracts** to increase customer retention
 
-Encourage customers to switch to **stable payment methods**
+- Encourage customers to switch to **stable payment methods**
 
-Improve **customer engagement during the first year**
+- Improve **customer engagement during the first year**
 
-Provide **special support programs for senior customers**
+- Provide **special support programs for senior customers**
 
-Investigate service quality issues for **fiber optic users**
+- Investigate service quality issues for **fiber optic users**
 
 These actions can significantly improve customer retention and customer satisfaction.
 
